@@ -14,3 +14,11 @@ Taking a course called "The Ultimate 2024 Fullstack Web Development Bootcamp" on
 
 4. HTML 201
    pathing, tables, classes, forms, buttons
+
+5. CSS 101
+   inline, internal, selectors, backgrounds   
+
+6. CSS 201
+   borders, positions-relative, absolute, fixed, sticky; flexbox, grid
+
+7. 
